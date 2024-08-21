@@ -1,9 +1,9 @@
-## Hi, I’m @vladi-kz
+# Hi, I’m @vladi-kz
 
 - I'm a Web Developer
 - I enjoy learning, creating things and continually improving
 
-### Tech Stack (for now): 
+## Tech Stack (for now): 
 - JavaScript
 - AstroJS
 - TailwindCSS
