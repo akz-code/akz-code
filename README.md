@@ -1,7 +1,7 @@
 ## Hi, I’m @vladi-kz
 
 - I'm a Web Developer
-- I enjoy learning, creating things and improving progressively
+- I enjoy learning, creating things and continually improving
 
 ## Tech Stack (for now): 
 - JavaScript
