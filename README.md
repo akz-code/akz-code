@@ -1,6 +1,5 @@
 # Hi, I’m @vladi-kz, Web Developer
 
----
 **I enjoy learning, creating things and improving progressively**
 
 #### I work (for now) with: 
