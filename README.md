@@ -1,6 +1,6 @@
 # Hi, I’m @vladi-kz
 
-- I'm a Web Developer
+- I'm a Software Developer
 - I enjoy learning, creating things and continually improving
 
 ## Tech Stack (for now): 
