@@ -1,4 +1,4 @@
-# Hi, I’m @vladi-kz
+# Hi, I’m Aaron KZ
 
 - I'm a Software Developer
 - I enjoy learning, creating things and continually improving
