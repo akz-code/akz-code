@@ -8,9 +8,10 @@
 - AstroJS
 - TailwindCSS
 - React
+- React Native
 
 
 <!---
-vladi-kz/vladi-kz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aaron-kz/aaron-kz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
