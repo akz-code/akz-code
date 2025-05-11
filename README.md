@@ -1,14 +1,14 @@
 # Hi, I’m Aaron KZ
 
 - I'm a Software Developer
-- I enjoy learning, creating things and continually improving
+- I enjoy learning and building things
 
 ## Tech Stack (for now): 
 - JavaScript
 - AstroJS
 - TailwindCSS
 - React
-- React Native
+- React Native / Expo
 
 
 <!---
