@@ -8,7 +8,6 @@
 - AstroJS
 - TailwindCSS
 - React
-- React Native / Expo
 
 
 <!---
