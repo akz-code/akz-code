@@ -6,8 +6,9 @@
 ## Tech Stack (for now): 
 - JavaScript
 - AstroJS
-- TailwindCSS
+- NextJS
 - React
+- TailwindCSS
 
 
 <!---
